@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/front-end-challenge-2021-coodesh/static/js/main.70c43ed9.js",
+    "main.js": "/front-end-challenge-2021-coodesh/static/js/main.b69544dd.js",
     "index.html": "/front-end-challenge-2021-coodesh/index.html",
-    "main.70c43ed9.js.map": "/front-end-challenge-2021-coodesh/static/js/main.70c43ed9.js.map"
+    "main.b69544dd.js.map": "/front-end-challenge-2021-coodesh/static/js/main.b69544dd.js.map"
   },
   "entrypoints": [
-    "static/js/main.70c43ed9.js"
+    "static/js/main.b69544dd.js"
   ]
 }
